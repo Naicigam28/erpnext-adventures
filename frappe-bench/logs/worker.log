@@ -1,0 +1,8 @@
+2024-12-26 12:06:19,333 Worker rq:worker:30a637e179b24474af0c7fbe76cc75d3 started with PID 14839, version 1.14.1
+2024-12-26 12:06:19,333 Subscribing to channel rq:pubsub:30a637e179b24474af0c7fbe76cc75d3
+2024-12-26 12:06:19,335 *** Listening on workspace-development-frappe-bench:short, workspace-development-frappe-bench:default, workspace-development-frappe-bench:long...
+2024-12-26 12:06:19,336 Cleaning registries for queue: workspace-development-frappe-bench:short
+2024-12-26 12:06:19,337 Cleaning registries for queue: workspace-development-frappe-bench:default
+2024-12-26 12:06:19,339 Cleaning registries for queue: workspace-development-frappe-bench:long
+2024-12-26 12:11:23,887 Worker 30a637e179b24474af0c7fbe76cc75d3 [PID 14839]: warm shut down requested
+2024-12-26 12:11:23,892 Unsubscribing from channel rq:pubsub:30a637e179b24474af0c7fbe76cc75d3
